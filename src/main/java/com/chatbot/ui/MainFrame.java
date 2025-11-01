@@ -25,7 +25,7 @@ public class MainFrame extends JFrame {
         this.currentUser = user;
 
         // Initialize Gemini service with API key
-        String apiKey = System.getProperty("GEMINI_API_KEY", "AIzaSyC0EzWTrpHU4Wy9FdusyiGFro08nDz5y24");
+        String apiKey = System.getProperty("GEMINI_API_KEY", "YOURKEYHERE");
         this.geminiService = new GeminiService(apiKey);
 
         initializeComponents();
