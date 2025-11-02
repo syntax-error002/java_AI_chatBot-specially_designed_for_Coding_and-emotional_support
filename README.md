@@ -1,6 +1,7 @@
 # AI Chatbot Application
 
 A modern AI chatbot application built with Java Swing, featuring a clean dark-themed interface and integration with Google's Gemini API.
+<img src="https://github.com/user-attachments/assets/fd2a2e2b-bbc5-45b9-80b2-2759a21ecfad" width="200"/>
 
 ## Features
 
